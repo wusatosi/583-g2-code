@@ -1,0 +1,15 @@
+2023-12-12 17:13:29,328 [INFO] Started logging at 20231212-171329
+2023-12-12 17:13:29,331 [INFO] Setting seed to 1
+2023-12-12 17:13:29,334 [INFO] Hyperparameters: 
+num_components_min: 1
+num_components_max: 20
+range_low: 0.666666
+range_high: 1.5
+prob_jump: 1.0
+no_jump_threshold: 5.0
+
+2023-12-12 17:13:29,334 [INFO] Benchmarking for 50 indices
+2023-12-12 17:13:29,355 [INFO] Resetting benchmark to everything for idx 0
+2023-12-12 17:13:29,355 [INFO] Compiling and running for idx 0
+2023-12-12 17:14:52,497 [INFO] Calculating loss for idx 0
+
