@@ -6,4 +6,8 @@ Usage the of code:
 
 2. Follow the .sh files in `job_scripts` to run the code
 
+    + `run_sa.sh` is for running the Simulated Annealing algorithm
+
+    + `run_ml.sh` is for running the Machine Learning model
+
 
